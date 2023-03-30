@@ -9,6 +9,5 @@ function totalScore(points2, points3){
 
 }
     
-    totalScore(4, 2)
+    totalScore(8, 10)
     console.log(result)
-    
